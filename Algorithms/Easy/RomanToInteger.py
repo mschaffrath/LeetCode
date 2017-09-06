@@ -50,3 +50,7 @@ class Solution(object):
                     num = num - lastval*2
                 lastval = 1
         return num
+
+
+
+    ### ADD TESTING

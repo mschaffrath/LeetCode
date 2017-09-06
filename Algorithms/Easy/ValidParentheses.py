@@ -38,3 +38,7 @@ class Solution(object):
         if ( len(stack) == 0 ):
             return True
         return False
+
+
+
+    ### ADD TESTING
